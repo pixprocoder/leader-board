@@ -1,2 +1,3 @@
 # leader-board
- This projct is for pratice web layout
+
+This project is for practice web layout
